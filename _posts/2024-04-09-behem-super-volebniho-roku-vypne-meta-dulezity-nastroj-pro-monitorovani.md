@@ -1,10 +1,10 @@
 ---
 title: Během super volebního roku vypne Meta důležitý nástroj pro monitorování
-date: 2024-04-06 09:30:00 +0800
+date: 2024-04-09 16:00:00 +0100
 categories: [Sociální sítě]
 tags: [facebook]
 image:
-  path: /img/kansas-reflector-ban.webp
+  path: /img/crowdtangle.webp
 ---
 
 Hojně používaná služba, kterou se dalo nahlížet pod pokličku Facebooku, se nadobro vypíná. Společnost Meta rozpustila tým stojící za monitorovacím nástrojem [CrowdTangle](https://www.crowdtangle.com/){:target="_blank"}, zrušila nové registrace a od 14. srpna již nebude možné jej používat.
@@ -23,7 +23,8 @@ Nezávislí factcheckeři pracující pro Metu již začali používat náhradu 
 
 Meta v tomto případě odkazuje na svou službu [Meta Business Suite](https://business.facebook.com/){:target="_blank"} a [knihovnu reklam](https://www.facebook.com/adlibrary){:target="_blank"}. Bohužel se jedná o nedostatečné řešení, které zobrazuje jen určitý druh informací. Doporučené náhrady v podobě nabídky třetích stran jako NewsWhip, Hootsuite, Meltwater, Sprout Social nebo Cision poskytují komplexní výsledky až za poplatek.
 
-Službu CrowdTangle využil server investigace.cz k porovnání dvou prezidentských kandidátů - Petra Pavla a Andreje Babiše
+![Investigace - CrowdTangle](/img/dashboard-crowdtangle.webp){:class="img-responsive"}
+*Službu CrowdTangle využil server investigace.cz k porovnání dvou prezidentských kandidátů - Petra Pavla a Andreje Babiše*
 
 Rebekah Tromble, která vede Institut pro data, demokracii a politiku na Univerzitě George Washingtona uvedla, že Meta Content Library by se mohla stát mocným pomocníkem. Bohužel má v současné podobě řadu omezení. Nelze například vyhledávat podle zeměpisné oblasti, má omezení počtu generovaných výsledků vyhledávání a blokuje stahování dat. Uživatelům také není nijak usnadněna migrace a není k dispozici jasný odkaz pro přechod. Meta tvrdí, že bude naslouchat zpětné vazbě.
 
