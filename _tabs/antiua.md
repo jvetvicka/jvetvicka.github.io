@@ -23,5 +23,4 @@ Tato stránka obsahuje aktéry, kteří publikovali tweety namířené proti Ukr
 | 1454738004506038272 | JardaJelen      | 5004      | 2347      | 2021-10-31 09:13:21 UTC |
 | 1450706698172252162 | MenyMana        | 144       | 60        | 2021-10-20 06:14:42 UTC |
 | 701040986387050496  | PatrickGames77  | 216       | 158       | 2016-02-20 13:49:30 UTC |
-| 1486005410066751492 | VelasJarda      | 1384      | 188       | 2022-01-25 15:58:15 UTC |
 | 1586777500243435520 | VencaNanuk      | 795       | 582       | 2022-10-30 17:51:15 UTC |
