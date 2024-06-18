@@ -6,6 +6,13 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
+## 18.6. (úterý)
+- [Hlavní hygienik USA volá po varovných nálepkách na sociální sítě](https://www.seznamzpravy.cz/clanek/zahranicni-socialni-site-skodi-americka-vlada-pozaduje-nalepky-jako-na-cigaretach-254115){:target="_blank"} (www.seznamzpravy.cz)
+- [NÚKIB je pranýřován a nový zákon o kyberbezpečnosti i kvůli lobbingu vázne, uvedl šéf armády Řehka](https://www.lupa.cz/aktuality/nukib-je-pranyrovan-a-novy-zakon-o-kyberbezpecnosti-i-kvuli-lobbingu-vazne-uvedl-sef-armady-rehka/?utm_source=rss&utm_medium=text&utm_campaign=rss){:target="_blank"} (www.lupa.cz)
+- [Německá kontrarozvědka: Více sledujeme krajní pravici a levici než islamisty](https://www.novinky.cz/clanek/zahranicni-evropa-nemecka-kontrarozvedka-vice-sledujeme-krajni-pravici-a-levici-nez-islamisty-40476845){:target="_blank"} (www.novinky.cz)
+- [Dezinformace, reaguje AVU na kritiku. Vedení školy se zastali i studenti](https://ct24.ceskatelevize.cz/clanek/kultura/nahota-versus-stari-muzi-pokracuji-dohady-o-soucasne-akademii-vytvarneho-umeni-350373){:target="_blank"} (ct24.ceskatelevize.cz)
+- [Známa banka čelí niekoľko dní kybernetickým útokom. Klientov upozorňuje, aby ignorovali podozrivé správy](https://news.refresher.sk/162063-Znama-banka-celi-niekolko-dni-kybernetickym-utokom-Klientov-upozornuje-aby-ignorovali-podozrive-spravy){:target="_blank"} (news.refresher.sk)
+
 ## 17.6. (pondělí)
 - [Sociální síť X zaplavují falešné účty aerolinek. Vymáhají citlivé údaje](https://www.novinky.cz/clanek/internet-ai-falesne-ucty-aerolinek-vymahaji-citlive-udaje-40476733){:target="_blank"} (www.novinky.cz)
 - [Ruská propaganda šíří, že naše prezidentka je lesba, líčí moldavský stand-up komik](https://zpravy.aktualne.cz/zahranici/moldavsko-komik-rozhovor/r~d18219d0231711ef801c0cc47ab5f122/?utm_source=mediafed&utm_medium=rss&utm_campaign=mediafed){:target="_blank"} (zpravy.aktualne.cz)
