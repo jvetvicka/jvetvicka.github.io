@@ -14,7 +14,7 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Firmy poslaly dopis premiérovi. Chtějí nové zadání pro NÚKIB ohledně kyberzákona](https://www.lupa.cz/aktuality/firmy-poslaly-nastvany-dopis-premierovi-chteji-nove-zadani-pro-nukib-ohledne-kyberzakona/?utm_source=rss&utm_medium=text&utm_campaign=rss){:target="_blank"} (www.lupa.cz)
 - [Zlákala ji podvodná reklama s Jakubem Prachařem. Přišla o statisíce](https://www.novinky.cz/clanek/krimi-zlakala-ji-podvodna-reklama-s-jakubem-pracharem-prisla-o-statisice-40476650){:target="_blank"} (www.novinky.cz)
 - [Falešní bankéři nabídli seniorovi z Olomouce pomoc, obrali jej o téměř 200 tisíc](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-falesni-bankeri-nabidli-seniorovi-z-olomouce-pomoc-obrali-jej-o-temer-200-tisic-40476637){:target="_blank"} (www.novinky.cz)
-- [Průzkum: Čtenáři nedůvěřují využívání umělé inteligence ve zpravodajství](http://www.ceskenoviny.cz/zpravy/pruzkum-ctenari-neduveruji-vyuzivani-umele-inteligence-ve-zpravodajstvi/2532855?utm_source=rss&utm_medium=feed){:target="_blank"} (www.ceskenoviny.cz)
+- [Průzkum: Čtenáři nedůvěřují využívání umělé inteligence ve zpravodajství](https://www.ceskenoviny.cz/zpravy/pruzkum-ctenari-neduveruji-vyuzivani-umele-inteligence-ve-zpravodajstvi/2532855?utm_source=rss&utm_medium=feed){:target="_blank"} (www.ceskenoviny.cz)
 - [Facebook masívne maže príspevky o zbierkach pre Ukrajinu](https://www.sme.sk/c/23345069/facebook-odstranuje-informacie-o-zbierkach-pre-ukrajinu.html){:target="_blank"} (www.sme.sk)
 
 
