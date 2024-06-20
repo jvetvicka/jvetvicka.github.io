@@ -6,6 +6,14 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
+## 20.6. (čtvrtek)
+- [Osmdesátník slepě investoval do kryptoměn. Přišel o milion korun](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-osmdesatnik-slepe-investoval-do-kryptomen-prisel-o-milion-korun-40477142){:target="_blank"} (www.novinky.cz)
+- [Policie stále hledá dezinformátora Zítka. Soud s ním se opět odkládá](https://www.novinky.cz/clanek/krimi-policie-stale-hleda-dezinformatora-zitka-soud-s-nim-se-opet-odklada-40477133){:target="_blank"} (www.novinky.cz)
+- [Malé a střední firmy jsou snadným cílem pro kybernetický útok, hackeři na ně nasazují automatizované boty](https://cc.cz/male-a-stredni-firmy-jsou-snadnym-cilem-pro-kyberneticky-utok-hackeri-na-ne-nasazuji-automatizovane-boty/){:target="_blank"} (cc.cz)
+- [Pandemie na Slovensku nebyla, prohlásil zástupce vlády, jenž vyšetřuje covid](https://www.idnes.cz/zpravy/zahranicni/slovensko-peter-kotlar-pandemie-na-slovensku-nebyla-sns-covid.A240619_200650_zahranicni_kha#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
+- [Falošné zľavy a ubytovanie v Chorvátsku: Slovenky oklamal podvodník, teraz nemajú dovolenku ani peniaze](https://spravy.rtvs.sk/2024/06/falosne-zlavy-a-ubytovanie-v-chorvatsku-slovenky-oklamal-podvodnik-teraz-nemaju-dovolenku-ani-peniaze/){:target="_blank"} (spravy.rtvs.sk)
+- [Richard Kollár: Šéf vládnej komisie pre pandémiu Peter Kotlár tvrdí, že žiadna pandémia na Slovensku nebola. Čo tým sleduje?](https://www.tyzden.sk/politika/111261/richard-kollar-sef-vladnej-komisie-pre-pandemiu-peter-kotlar-tvrdi-ze-ziadna-pandemia-na-slovensku-nebola-co-tym-sleduje/){:target="_blank"} (www.tyzden.sk)
+
 ## 19.6. (středa)
 - [Nemecko tvrdí, že Rusko investovalo veľké financie do náboru špiónov](https://www.teraz.sk/zahranicie/nemecko-rusko-si-po-vyhosteni-diplomat/802905-clanok.html){:target="_blank"} (www.teraz.sk, 18.06)
 - [Výskumník Sloboda: Čitatelia viac dôverujú článkom, ak obsahujú informáciu o fact-checkingu (podcast)](https://www.aktuality.sk/clanok/66qHcTV/vyskumnik-sloboda-citatelia-viac-doveruju-clankom-ak-obsahuju-informaciu-o-fact-checkingu-podcast/){:target="_blank"} (www.aktuality.sk)
