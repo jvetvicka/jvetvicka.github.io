@@ -6,6 +6,14 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
+## 21.6. (pátek)
+- [Japonská vesmírná agentura JAXA se od konce loňského roku stala terčem řady kybernetických útoků](https://denikn.cz/minuta/1458491/){:target="_blank"} (denikn.cz, 21.06)
+- [NÚKIB připravuje nový kyberzákon, řadě firem se ale nelíbí. ‚Tlaků bylo velké množství,‘ říká šéf úřadu](https://www.irozhlas.cz/zpravy-domov/nukib-pripravuje-novy-kyberzakon-rade-firem-se-ale-nelibi-tlaku-bylo-velke_2406210009_job){:target="_blank"} (www.irozhlas.cz, 21.06)
+- [Japonskou vesmírnou agenturu opakovaně napadli hackeři. Tajné informace o raketách prý ale neunikly](https://www.irozhlas.cz/zpravy-svet/japonskou-vesmirnou-agenturu-opakovane-napadli-hackeri-tajne-informace-o_2406211723_jar){:target="_blank"} (www.irozhlas.cz, 21.06)
+- [Podvodníci útočí na cestovatele ve velkém](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-podvodnici-utoci-na-cestovatele-ve-velkem-40477381){:target="_blank"} (www.novinky.cz, 21.06)
+- [Fio banka řeší rozsáhlý kybernetický útok, lidé se nemohou přihlásit do bankovnictví i několik dní](https://news.refresher.cz/162269-Fio-banka-resi-rozsahly-kyberneticky-utok-lide-se-nemohou-prihlasit-do-bankovnictvi-i-nekolik-dni){:target="_blank"} (news.refresher.cz, 21.06)
+- [Eštokova stránka Hoaxy a podvody blokuje kritických Slovákov](https://www.tyzden.sk/meme/111290/estokova-stranka-hoaxy-a-podvody-blokuje-kritickych-slovakov/){:target="_blank"} (www.tyzden.sk, 21.06)
+
 ## 20.6. (čtvrtek)
 - [Osmdesátník slepě investoval do kryptoměn. Přišel o milion korun](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-osmdesatnik-slepe-investoval-do-kryptomen-prisel-o-milion-korun-40477142){:target="_blank"} (www.novinky.cz)
 - [Policie stále hledá dezinformátora Zítka. Soud s ním se opět odkládá](https://www.novinky.cz/clanek/krimi-policie-stale-hleda-dezinformatora-zitka-soud-s-nim-se-opet-odklada-40477133){:target="_blank"} (www.novinky.cz)
