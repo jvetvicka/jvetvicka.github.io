@@ -6,13 +6,19 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
+## 22.6. (sobota)
+- [‚Zpravodajci to vidí jinak.‘ Ve sporu o blokaci webu AC24 vypovídali i svědci z ‚alternativních‘ médií](https://www.irozhlas.cz/zpravy-domov/zpravodajci-vidi-jinak-ve-sporu-o-blokaci-webu-ac24-vypovidali-i-svedci-z_2406220500_pik){:target="_blank"} (www.irozhlas.cz, 22.06)
+- [Video trasúceho sa ukrajinského dievčaťa: Nešlo o reakciu na bombardovanie, no k ruským útokom stále dochádza](https://spravy.rtvs.sk/2024/06/trasuce-sa-dieta-na-ukrajine-neslo-o-reakciu-na-bombardovanie/){:target="_blank"} (spravy.rtvs.sk, 22.06)
+
 ## 21.6. (pátek)
-- [Japonská vesmírná agentura JAXA se od konce loňského roku stala terčem řady kybernetických útoků](https://denikn.cz/minuta/1458491/){:target="_blank"} (denikn.cz, 21.06)
-- [NÚKIB připravuje nový kyberzákon, řadě firem se ale nelíbí. ‚Tlaků bylo velké množství,‘ říká šéf úřadu](https://www.irozhlas.cz/zpravy-domov/nukib-pripravuje-novy-kyberzakon-rade-firem-se-ale-nelibi-tlaku-bylo-velke_2406210009_job){:target="_blank"} (www.irozhlas.cz, 21.06)
-- [Japonskou vesmírnou agenturu opakovaně napadli hackeři. Tajné informace o raketách prý ale neunikly](https://www.irozhlas.cz/zpravy-svet/japonskou-vesmirnou-agenturu-opakovane-napadli-hackeri-tajne-informace-o_2406211723_jar){:target="_blank"} (www.irozhlas.cz, 21.06)
-- [Podvodníci útočí na cestovatele ve velkém](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-podvodnici-utoci-na-cestovatele-ve-velkem-40477381){:target="_blank"} (www.novinky.cz, 21.06)
-- [Fio banka řeší rozsáhlý kybernetický útok, lidé se nemohou přihlásit do bankovnictví i několik dní](https://news.refresher.cz/162269-Fio-banka-resi-rozsahly-kyberneticky-utok-lide-se-nemohou-prihlasit-do-bankovnictvi-i-nekolik-dni){:target="_blank"} (news.refresher.cz, 21.06)
-- [Eštokova stránka Hoaxy a podvody blokuje kritických Slovákov](https://www.tyzden.sk/meme/111290/estokova-stranka-hoaxy-a-podvody-blokuje-kritickych-slovakov/){:target="_blank"} (www.tyzden.sk, 21.06)
+- [Japonská vesmírná agentura JAXA se od konce loňského roku stala terčem řady kybernetických útoků](https://denikn.cz/minuta/1458491/){:target="_blank"} (denikn.cz)
+- [NÚKIB připravuje nový kyberzákon, řadě firem se ale nelíbí. ‚Tlaků bylo velké množství,‘ říká šéf úřadu](https://www.irozhlas.cz/zpravy-domov/nukib-pripravuje-novy-kyberzakon-rade-firem-se-ale-nelibi-tlaku-bylo-velke_2406210009_job){:target="_blank"} (www.irozhlas.cz)
+- [Japonskou vesmírnou agenturu opakovaně napadli hackeři. Tajné informace o raketách prý ale neunikly](https://www.irozhlas.cz/zpravy-svet/japonskou-vesmirnou-agenturu-opakovane-napadli-hackeri-tajne-informace-o_2406211723_jar){:target="_blank"} (www.irozhlas.cz)
+- [Podvodníci útočí na cestovatele ve velkém](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-podvodnici-utoci-na-cestovatele-ve-velkem-40477381){:target="_blank"} (www.novinky.cz)
+- [Fio banka řeší rozsáhlý kybernetický útok, lidé se nemohou přihlásit do bankovnictví i několik dní](https://news.refresher.cz/162269-Fio-banka-resi-rozsahly-kyberneticky-utok-lide-se-nemohou-prihlasit-do-bankovnictvi-i-nekolik-dni){:target="_blank"} (news.refresher.cz)
+- [Eštokova stránka Hoaxy a podvody blokuje kritických Slovákov](https://www.tyzden.sk/meme/111290/estokova-stranka-hoaxy-a-podvody-blokuje-kritickych-slovakov/){:target="_blank"} (www.tyzden.sk)
+- [Příspěvek překrucuje dokument WHO o standardech sexuální výchovy](https://demagog.cz/diskuze/prispevek-prekrucuje-dokument-who-o-standardech-sexualni-vychovy){:target="_blank"} (demagog.cz) 🟢
+- [Seznam.cz, Novinky a Stream.cz zůstávají Ivo Lukačovičovi, napojení na Sorose je smyšlené](https://demagog.cz/diskuze/seznam-cz-novinky-a-stream-cz-zustavaji-ivo-lukacovicovi-napojeni-na-sorose-je-smyslene){:target="_blank"} (demagog.cz) 🟢
 
 ## 20.6. (čtvrtek)
 - [Osmdesátník slepě investoval do kryptoměn. Přišel o milion korun](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-osmdesatnik-slepe-investoval-do-kryptomen-prisel-o-milion-korun-40477142){:target="_blank"} (www.novinky.cz)
@@ -39,7 +45,7 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Mimovládky obviňujú rezort vnútra zo snahy zaviesť cenzúru. Kvôli "limitovaným informáciám" spúšťajú petíciu](https://hnonline.sk/slovensko/96155317-mimovladky-obvinuju-rezort-vnutra-zo-snahy-zaviest-cenzuru-kvoli-limitovanym-informaciam-spustaju-peticiu){:target="_blank"} (hnonline.sk)
 
 ## 18.6. (úterý)
-- [Umělá inteligence ve fast foodu? U McDonald’s v testu neuspěla](https://www.seznamzpravy.cz/clanek/zahranicni-umela-inteligence-ve-fast-foodu-u-mcdonalds-v-testu-neuspela-254181){:target="_blank"} (www.seznamzpravy.cz) 🟢
+- [Umělá inteligence ve fast foodu? U McDonald’s v testu neuspěla](https://www.seznamzpravy.cz/clanek/zahranicni-umela-inteligence-ve-fast-foodu-u-mcdonalds-v-testu-neuspela-254181){:target="_blank"} (www.seznamzpravy.cz)
 - [Hlavní hygienik USA volá po varovných nálepkách na sociální sítě](https://www.seznamzpravy.cz/clanek/zahranicni-socialni-site-skodi-americka-vlada-pozaduje-nalepky-jako-na-cigaretach-254115){:target="_blank"} (www.seznamzpravy.cz)
 - [NÚKIB je pranýřován a nový zákon o kyberbezpečnosti i kvůli lobbingu vázne, uvedl šéf armády Řehka](https://www.lupa.cz/aktuality/nukib-je-pranyrovan-a-novy-zakon-o-kyberbezpecnosti-i-kvuli-lobbingu-vazne-uvedl-sef-armady-rehka/?utm_source=rss&utm_medium=text&utm_campaign=rss){:target="_blank"} (www.lupa.cz)
 - [Německá kontrarozvědka: Více sledujeme krajní pravici a levici než islamisty](https://www.novinky.cz/clanek/zahranicni-evropa-nemecka-kontrarozvedka-vice-sledujeme-krajni-pravici-a-levici-nez-islamisty-40476845){:target="_blank"} (www.novinky.cz)
@@ -48,7 +54,7 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Facebook tvrdí, že príspevky s odkazom na zbierku Munícia pre Ukrajinu odstránil omylom](https://dennikn.sk/minuta/4053787/){:target="_blank"} (dennikn.sk)
 
 ## 17.6. (pondělí)
-- [Deepfake videa s tančícím Zelenským pocházejí z ruského účtu na TikToku](https://cedmohub.eu/cs/deepfake-videa-s-tancm-zelenskm-pochzej-z-ruskho-tu-na-tiktoku){:target="_blank"} (cedmohub.eu, 17.06) 🟢
+- [Deepfake videa s tančícím Zelenským pocházejí z ruského účtu na TikToku](https://cedmohub.eu/cs/deepfake-videa-s-tancm-zelenskm-pochzej-z-ruskho-tu-na-tiktoku){:target="_blank"} (cedmohub.eu)
 - [Sociální síť X zaplavují falešné účty aerolinek. Vymáhají citlivé údaje](https://www.novinky.cz/clanek/internet-ai-falesne-ucty-aerolinek-vymahaji-citlive-udaje-40476733){:target="_blank"} (www.novinky.cz)
 - [Ruská propaganda šíří, že naše prezidentka je lesba, líčí moldavský stand-up komik](https://zpravy.aktualne.cz/zahranici/moldavsko-komik-rozhovor/r~d18219d0231711ef801c0cc47ab5f122/?utm_source=mediafed&utm_medium=rss&utm_campaign=mediafed){:target="_blank"} (zpravy.aktualne.cz)
 - [Rusku může globální oteplení pomoci, proto šíří klimatické lži, říká sociolog](https://www.idnes.cz/zpravy/domaci/klimaticke-dezinformace-vojtech-pecka-sociolog-rusko-fosilni-prumysl.A240606_111958_domaci_tty#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
