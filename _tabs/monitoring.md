@@ -6,9 +6,17 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
-## 22.6. (sobota)
-- [‚Zpravodajci to vidí jinak.‘ Ve sporu o blokaci webu AC24 vypovídali i svědci z ‚alternativních‘ médií](https://www.irozhlas.cz/zpravy-domov/zpravodajci-vidi-jinak-ve-sporu-o-blokaci-webu-ac24-vypovidali-i-svedci-z_2406220500_pik){:target="_blank"} (www.irozhlas.cz, 22.06)
-- [Video trasúceho sa ukrajinského dievčaťa: Nešlo o reakciu na bombardovanie, no k ruským útokom stále dochádza](https://spravy.rtvs.sk/2024/06/trasuce-sa-dieta-na-ukrajine-neslo-o-reakciu-na-bombardovanie/){:target="_blank"} (spravy.rtvs.sk, 22.06)
+## 22.6. (sobota) 🟢
+- [‚Zpravodajci to vidí jinak.‘ Ve sporu o blokaci webu AC24 vypovídali i svědci z ‚alternativních‘ médií](https://www.irozhlas.cz/zpravy-domov/zpravodajci-vidi-jinak-ve-sporu-o-blokaci-webu-ac24-vypovidali-i-svedci-z_2406220500_pik){:target="_blank"} (www.irozhlas.cz)
+- [Video trasúceho sa ukrajinského dievčaťa: Nešlo o reakciu na bombardovanie, no k ruským útokom stále dochádza](https://spravy.rtvs.sk/2024/06/trasuce-sa-dieta-na-ukrajine-neslo-o-reakciu-na-bombardovanie/){:target="_blank"} (spravy.rtvs.sk)
+- [OVĚŘOVNA: Důchod podle ukrajinských pravidel, ale vyplácený Českem. Šíří se další lež o uprchlících](https://www.irozhlas.cz/zpravy-domov/overovna-duchod-podle-ukrajinskych-pravidel-ale-vyplaceny-ceskem-siri-se-dalsi_2406230500_job){:target="_blank"} (www.irozhlas.cz, 23.06)
+- [Zaplatili za vilu, přijeli k lesu. Podvodníci útočí přes populární servery](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-pred-dovolenou-pozor-na-rafinovany-podvod-s-falesnymi-hotely-254360){:target="_blank"} (www.seznamzpravy.cz)
+- [Elektronický občanský průkaz má v mobilu přes 430 tisíc lidí. Jiní se obávají zneužití dat i zásahu státu](https://www.irozhlas.cz/zpravy-domov/elektronicky-obcansky-prukaz-ma-v-mobilu-pres-430-tisic-lidi-jini-se-obavaji_2406221322_vtk){:target="_blank"} (www.irozhlas.cz)
+- [Proti zlodějům mobilů bude bojovat umělá inteligence](https://www.novinky.cz/clanek/internet-a-pc-ai-proti-zlodejum-mobilu-bude-bojovat-umela-inteligence-40477165){:target="_blank"} (www.novinky.cz, 23.06)
+- [Expert: Méně nálepek. Nazývat opozici bez důkazů dezinformátory je špatné](https://www.idnes.cz/zpravy/domaci/rozstrel-tomas-kolomaznik-dezinformace-kniha-okamura.A240621_111046_domaci_vov#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
+- [Ak je ponuka brigády príliš dobrá, zrejme bude podvodná. Odborníci radia, ako neskončiť v pasci](https://spravy.rtvs.sk/2024/06/ak-je-ponuka-brigady-prilis-dobra-zrejme-bude-podvodna-odbornici-radia-ako-neskoncit-v-pasci/){:target="_blank"} (spravy.rtvs.sk)
+- [Seniorky vložili medzi smetiaky desiatky tisíc eur, šperky aj kľúče od auta. Polícia zverejnila detaily nového typu podvodu](https://news.refresher.sk/162299-Seniorky-vlozili-medzi-smetiaky-desiatky-tisic-eur-sperky-aj-kluce-od-auta-Policia-zverejnila-detaily-noveho-typu-podvodu){:target="_blank"} (news.refresher.sk)
+
 
 ## 21.6. (pátek)
 - [Japonská vesmírná agentura JAXA se od konce loňského roku stala terčem řady kybernetických útoků](https://denikn.cz/minuta/1458491/){:target="_blank"} (denikn.cz)
@@ -17,8 +25,8 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Podvodníci útočí na cestovatele ve velkém](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-podvodnici-utoci-na-cestovatele-ve-velkem-40477381){:target="_blank"} (www.novinky.cz)
 - [Fio banka řeší rozsáhlý kybernetický útok, lidé se nemohou přihlásit do bankovnictví i několik dní](https://news.refresher.cz/162269-Fio-banka-resi-rozsahly-kyberneticky-utok-lide-se-nemohou-prihlasit-do-bankovnictvi-i-nekolik-dni){:target="_blank"} (news.refresher.cz)
 - [Eštokova stránka Hoaxy a podvody blokuje kritických Slovákov](https://www.tyzden.sk/meme/111290/estokova-stranka-hoaxy-a-podvody-blokuje-kritickych-slovakov/){:target="_blank"} (www.tyzden.sk)
-- [Příspěvek překrucuje dokument WHO o standardech sexuální výchovy](https://demagog.cz/diskuze/prispevek-prekrucuje-dokument-who-o-standardech-sexualni-vychovy){:target="_blank"} (demagog.cz) 🟢
-- [Seznam.cz, Novinky a Stream.cz zůstávají Ivo Lukačovičovi, napojení na Sorose je smyšlené](https://demagog.cz/diskuze/seznam-cz-novinky-a-stream-cz-zustavaji-ivo-lukacovicovi-napojeni-na-sorose-je-smyslene){:target="_blank"} (demagog.cz) 🟢
+- [Příspěvek překrucuje dokument WHO o standardech sexuální výchovy](https://demagog.cz/diskuze/prispevek-prekrucuje-dokument-who-o-standardech-sexualni-vychovy){:target="_blank"} (demagog.cz)
+- [Seznam.cz, Novinky a Stream.cz zůstávají Ivo Lukačovičovi, napojení na Sorose je smyšlené](https://demagog.cz/diskuze/seznam-cz-novinky-a-stream-cz-zustavaji-ivo-lukacovicovi-napojeni-na-sorose-je-smyslene){:target="_blank"} (demagog.cz)
 
 ## 20.6. (čtvrtek)
 - [Osmdesátník slepě investoval do kryptoměn. Přišel o milion korun](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-osmdesatnik-slepe-investoval-do-kryptomen-prisel-o-milion-korun-40477142){:target="_blank"} (www.novinky.cz)
