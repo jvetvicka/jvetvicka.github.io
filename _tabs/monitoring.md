@@ -6,13 +6,29 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
-## 22.6. (sobota) 🟢
+## 24.6. (pondělí) 🟢
+- [Sociální sítě, informační poruchy a zdraví](https://cedmohub.eu/cs/socialni-site-informacni-poruchy-a-zdravi/?utm_source=rss&utm_medium=rss&utm_campaign=socialni-site-informacni-poruchy-a-zdravi){:target="_blank"} (cedmohub.eu)
+- [EÚ zasiahla proti kyberzločincom. Pridala šesť ľudí na svoj zoznam sankcií](https://www.aktuality.sk/clanok/pOAdYSO/eu-zasiahla-proti-kyberzlocincom-pridala-sest-ludi-na-svoj-zoznam-sankcii/){:target="_blank"} (www.aktuality.sk)
+- [Video: Jak policisté zadrželi dezinformátora Pavla Zítka](https://www.seznamzpravy.cz/clanek/domaci-kauzy-video-muze-to-byt-zlocinne-spolceni-hrozil-zitko-slovenskym-policistum-254528){:target="_blank"} (www.seznamzpravy.cz)
+- [‚Potřebujeme vaše účty, odměna až 50 tisíc.‘ Cizinci na Telegramu najímají Čechy a dělají z nich bílé koně](https://www.irozhlas.cz/zpravy-domov/potrebujeme-vase-ucty-odmena-az-50-tisic-cizinci-na-telegramu-najimaji-cechy-a_2406240500_vtk){:target="_blank"} (www.irozhlas.cz)
+- [Japonská vesmírná agentura čelí kyberútokům. Tajné informace prý neunikly](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-japonska-vesmirna-agentura-celi-kyberutokum-tajne-informace-pry-neunikly-40477595){:target="_blank"} (www.novinky.cz)
+- [Expertka: Ruská ambasáda na Slovensku je najaktívnejším zastupiteľským úradom z celej Európy](https://euractiv.sk/section/digitalizacia/interview/ruska-ambasada-na-slovensku-najaktivnejsi-zastupitelsky-uradom-eu-dezinformacie-propaganda/){:target="_blank"} (euractiv.sk)
+- [Umělá inteligence Applu do Evropy jen tak nedorazí. Možná by porušila místní antimonopolní pravidla](https://cc.cz/umela-inteligence-applu-do-evropy-jen-tak-nedorazi-mozna-by-porusila-mistni-antimonopolni-pravidla/){:target="_blank"} (cc.cz)
+- [Chytré telefony v Česku ohrožuje malware. Maskuje se ve falešných hrách, napadá bankovní aplikace](https://mobilmania.zive.cz/clanky/prehled-hrozeb-pro-android-skodlivy-software-spyware-malware-a-dalsi-zranitelnosti/sc-3-a-1359020/default.aspx){:target="_blank"} (mobilmania.zive.cz)
+- [Umělá inteligence přijímala u McDonald's objednávky. Měla problémy a nakonec dostala vyhazov](https://www.zive.cz/clanky/umela-inteligence-prijimala-u-mcdonalds-objednavky-mela-problemy-a-nakonec-dostala-vyhazov/sc-3-a-228683/default.aspx){:target="_blank"} (www.zive.cz)
+- [Stát už ví, co je dezinformace. Foltýn řekl, čím chce Rusko rozbít demokracii](https://www.idnes.cz/zpravy/domaci/definice-dezinformace-foltyn-rusky-narativ-je-nicemu-neverte-snemovna-strategicka-komunikace.A240624_095013_domaci_kop#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
+
+## 23.6. (neděle)
+- [OVĚŘOVNA: Důchod podle ukrajinských pravidel, ale vyplácený Českem. Šíří se další lež o uprchlících](https://www.irozhlas.cz/zpravy-domov/overovna-duchod-podle-ukrajinskych-pravidel-ale-vyplaceny-ceskem-siri-se-dalsi_2406230500_job){:target="_blank"} (www.irozhlas.cz)
+- [Proti zlodějům mobilů bude bojovat umělá inteligence](https://www.novinky.cz/clanek/internet-a-pc-ai-proti-zlodejum-mobilu-bude-bojovat-umela-inteligence-40477165){:target="_blank"} (www.novinky.cz)
+- [Záujem o cestovanie je veľký a podvodníci to chcú využiť: Po novom úradujú aj na sociálnych sieťach](https://spravy.rtvs.sk/2024/06/zaujem-o-cestovanie-je-velky-a-podvodnici-to-chcu-vyuzit-s-novymi-taktikami-prichadzaju-na-internete/){:target="_blank"} (spravy.rtvs.sk)
+
+
+## 22.6. (sobota)
 - [‚Zpravodajci to vidí jinak.‘ Ve sporu o blokaci webu AC24 vypovídali i svědci z ‚alternativních‘ médií](https://www.irozhlas.cz/zpravy-domov/zpravodajci-vidi-jinak-ve-sporu-o-blokaci-webu-ac24-vypovidali-i-svedci-z_2406220500_pik){:target="_blank"} (www.irozhlas.cz)
 - [Video trasúceho sa ukrajinského dievčaťa: Nešlo o reakciu na bombardovanie, no k ruským útokom stále dochádza](https://spravy.rtvs.sk/2024/06/trasuce-sa-dieta-na-ukrajine-neslo-o-reakciu-na-bombardovanie/){:target="_blank"} (spravy.rtvs.sk)
-- [OVĚŘOVNA: Důchod podle ukrajinských pravidel, ale vyplácený Českem. Šíří se další lež o uprchlících](https://www.irozhlas.cz/zpravy-domov/overovna-duchod-podle-ukrajinskych-pravidel-ale-vyplaceny-ceskem-siri-se-dalsi_2406230500_job){:target="_blank"} (www.irozhlas.cz, 23.06)
 - [Zaplatili za vilu, přijeli k lesu. Podvodníci útočí přes populární servery](https://www.seznamzpravy.cz/clanek/ekonomika-firmy-pred-dovolenou-pozor-na-rafinovany-podvod-s-falesnymi-hotely-254360){:target="_blank"} (www.seznamzpravy.cz)
 - [Elektronický občanský průkaz má v mobilu přes 430 tisíc lidí. Jiní se obávají zneužití dat i zásahu státu](https://www.irozhlas.cz/zpravy-domov/elektronicky-obcansky-prukaz-ma-v-mobilu-pres-430-tisic-lidi-jini-se-obavaji_2406221322_vtk){:target="_blank"} (www.irozhlas.cz)
-- [Proti zlodějům mobilů bude bojovat umělá inteligence](https://www.novinky.cz/clanek/internet-a-pc-ai-proti-zlodejum-mobilu-bude-bojovat-umela-inteligence-40477165){:target="_blank"} (www.novinky.cz, 23.06)
 - [Expert: Méně nálepek. Nazývat opozici bez důkazů dezinformátory je špatné](https://www.idnes.cz/zpravy/domaci/rozstrel-tomas-kolomaznik-dezinformace-kniha-okamura.A240621_111046_domaci_vov#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
 - [Ak je ponuka brigády príliš dobrá, zrejme bude podvodná. Odborníci radia, ako neskončiť v pasci](https://spravy.rtvs.sk/2024/06/ak-je-ponuka-brigady-prilis-dobra-zrejme-bude-podvodna-odbornici-radia-ako-neskoncit-v-pasci/){:target="_blank"} (spravy.rtvs.sk)
 - [Seniorky vložili medzi smetiaky desiatky tisíc eur, šperky aj kľúče od auta. Polícia zverejnila detaily nového typu podvodu](https://news.refresher.sk/162299-Seniorky-vlozili-medzi-smetiaky-desiatky-tisic-eur-sperky-aj-kluce-od-auta-Policia-zverejnila-detaily-noveho-typu-podvodu){:target="_blank"} (news.refresher.sk)
