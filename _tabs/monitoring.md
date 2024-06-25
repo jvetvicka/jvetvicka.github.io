@@ -6,7 +6,16 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
-## 24.6. (pondělí) 🟢
+## 25.6. (úterý) 🟢
+- [Média informují o všech obětech vlakové nehody, nejen o Ukrajinkách](https://cedmohub.eu/cs/media-informuji-o-vsech-obetech-vlakove-nehody-nejen-o-ukrajinkach/?utm_source=rss&utm_medium=rss&utm_campaign=media-informuji-o-vsech-obetech-vlakove-nehody-nejen-o-ukrajinkach){:target="_blank"} (cedmohub.eu)
+- [Regulace podle NIS2: NÚKIB se o nejkvalitnější zaměstnance přetahuje se soukromým sektorem](https://www.lupa.cz/clanky/regulace-podle-nis2-nukib-se-o-nejkvalitnejsi-zamestnance-pretahuje-se-soukromym-sektorem/?utm_source=rss&utm_medium=text&utm_campaign=rss){:target="_blank"} (www.lupa.cz)
+- [Chtěl rychle zbohatnout, ale přišel o miliony. Na internetu narazil na podvodníka](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-chtel-rychle-zbohatnout-ale-prisel-o-miliony-na-internetu-narazil-na-podvodnika-40477712){:target="_blank"} (www.novinky.cz)
+- [Dnes je poslední den, kdy můžete zabránit Facebooku v trénování AI na svých datech](https://www.zive.cz/clanky/dnes-je-posledni-den-kdy-muzete-zabranit-facebooku-v-trenovani-ai-na-svych-datech/sc-3-a-228822/default.aspx){:target="_blank"} (www.zive.cz)
+- [Pokus o státní převrat, agent SIS a miliardář Soros. To jsou hlavní konspirace o atentátu na Fica šířené na TikToku](https://www.investigace.cz/fico-atentat-tiktok-ohnostroj-lzi/){:target="_blank"} (www.investigace.cz)
+- [Pozor na flipování. Na trhu s nemovitostmi se objevil nový způsob podvodu](https://news.refresher.cz/162453-Pozor-na-flipovani-Na-trhu-s-nemovitostmi-se-objevil-novy-zpusob-podvodu){:target="_blank"} (news.refresher.cz)
+- [VAROVANIE mobilného operátora! Ak vám príde TAKÁTO správa, neotvárajte ju: Zostanú vám oči pre plač](https://www.topky.sk/cl/10/2791261/VAROVANIE-mobilneho-operatora--Ak-vam-pride-TAKATO-sprava--neotvarajte-ju--Zostanu-vam-oci-pre-plac){:target="_blank"} (www.topky.sk)
+
+## 24.6. (pondělí)
 - [Sociální sítě, informační poruchy a zdraví](https://cedmohub.eu/cs/socialni-site-informacni-poruchy-a-zdravi/?utm_source=rss&utm_medium=rss&utm_campaign=socialni-site-informacni-poruchy-a-zdravi){:target="_blank"} (cedmohub.eu)
 - [EÚ zasiahla proti kyberzločincom. Pridala šesť ľudí na svoj zoznam sankcií](https://www.aktuality.sk/clanok/pOAdYSO/eu-zasiahla-proti-kyberzlocincom-pridala-sest-ludi-na-svoj-zoznam-sankcii/){:target="_blank"} (www.aktuality.sk)
 - [Video: Jak policisté zadrželi dezinformátora Pavla Zítka](https://www.seznamzpravy.cz/clanek/domaci-kauzy-video-muze-to-byt-zlocinne-spolceni-hrozil-zitko-slovenskym-policistum-254528){:target="_blank"} (www.seznamzpravy.cz)
