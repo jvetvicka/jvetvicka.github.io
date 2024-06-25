@@ -364,6 +364,20 @@ sup {
   }
 }
 
+.post-preview-home {
+  @extend %rounded;
+
+  border: 0;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+
+  &:hover {
+    &::before {
+      opacity: 0.3;
+    }
+  }
+}
+
 main {
   line-height: 1.75;
 

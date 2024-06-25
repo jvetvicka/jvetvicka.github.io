@@ -41,6 +41,23 @@ refactor: true
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
+<article class="card-wrapper card">
+      <div class="post-preview-home row g-0 flex-md-row-reverse">
+        {% assign card_body_col = '12' %}
+
+        <div class="col-md-{{ card_body_col }}">
+          <div class="card-body d-flex flex-column">
+            <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
+
+            <div class="card-text content mt-0 mb-3">
+              <p>Blog věnovaný boji proti ruské propagandě. Inspirován lidmi jako <a href="https://github.com/travisbrown/">Travis Brown</a>, <a href="https://twitter.com/EliotHiggins">Eliot Higgins</a> nebo <a href="https://twitter.com/Shayan86">Shayan Sardarizadeh</a>. Mimo to překládám zajímavé články a <a href="monitoring">monitoruji</a> česká a slovenská média. </p>
+            </div>
+            <!-- .post-meta -->
+          </div>
+          <!-- .card-body -->
+        </div>
+      </div>
+    </article>
   {% for post in posts %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
