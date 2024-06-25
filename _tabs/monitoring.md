@@ -14,6 +14,11 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Pokus o státní převrat, agent SIS a miliardář Soros. To jsou hlavní konspirace o atentátu na Fica šířené na TikToku](https://www.investigace.cz/fico-atentat-tiktok-ohnostroj-lzi/){:target="_blank"} (www.investigace.cz)
 - [Pozor na flipování. Na trhu s nemovitostmi se objevil nový způsob podvodu](https://news.refresher.cz/162453-Pozor-na-flipovani-Na-trhu-s-nemovitostmi-se-objevil-novy-zpusob-podvodu){:target="_blank"} (news.refresher.cz)
 - [VAROVANIE mobilného operátora! Ak vám príde TAKÁTO správa, neotvárajte ju: Zostanú vám oči pre plač](https://www.topky.sk/cl/10/2791261/VAROVANIE-mobilneho-operatora--Ak-vam-pride-TAKATO-sprava--neotvarajte-ju--Zostanu-vam-oci-pre-plac){:target="_blank"} (www.topky.sk)
+- [Máte poslednú šancu, aby ste Facebooku a Instagramu zakázali použiť vaše údaje a fotky na trénovanie AI](https://hnonline.sk/style/tech/96156203-mate-poslednu-sancu-aby-ste-facebooku-a-instagramu-zakazali-pouzit-vase-udaje-a-fotky-na-trenovanie-ai){:target="_blank"} (hnonline.sk)
+- [Rusko zakázalo šírenie médií z EÚ v reakcii na podobný krok Únie](https://www.teraz.sk/zahranicie/rusko-zakazalo-sirenie-medii-z-eu/804442-clanok.html){:target="_blank"} (www.teraz.sk)
+- [Čína mění taktiku své propagandy. Bude ji vůbec ještě možné rozpoznat?](https://hlidacipes.org/cina-meni-taktiku-sve-propagandy-bude-ji-vubec-jeste-mozne-rozpoznat/){:target="_blank"} (hlidacipes.org)
+- 🎧 [Co je zač zadržený dezinformátor Zítko? Nebezpečná figurka parazitující na důvěřivých lidech](https://www.novinky.cz/clanek/podcasty-retezak-co-je-zac-zadrzeny-dezinformator-zitko-nebezpecna-figurka-parazitujici-na-duverivych-lidech-40477629){:target="_blank"} (Podcast Řetězák)
+- 🎥 [Ohrožuje nás Cenzurní industriální komplex?](https://www.youtube.com/watch?v=b549QuPl6J0){:target="_blank"} (YT Spiknutí)
 
 ## 24.6. (pondělí)
 - [Sociální sítě, informační poruchy a zdraví](https://cedmohub.eu/cs/socialni-site-informacni-poruchy-a-zdravi/?utm_source=rss&utm_medium=rss&utm_campaign=socialni-site-informacni-poruchy-a-zdravi){:target="_blank"} (cedmohub.eu)
