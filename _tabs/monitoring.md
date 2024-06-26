@@ -6,7 +6,17 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
-## 25.6. (úterý) 🟢
+## 26.6. (středa) 🟢
+- [Kasino na Kypru zůstává původním vlastníkům, informace o prodeji Zelenskému pochází z falešného webu](https://cedmohub.eu/cs/kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu/?utm_source=rss&utm_medium=rss&utm_campaign=kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu){:target="_blank"} (cedmohub.eu)
+- [Manipulativní a nepravdivé příspěvky popírají stoupající hladinu moří](https://demagog.cz/diskuze/manipulativni-a-nepravdive-prispevky-popiraji-stoupajici-hladinu-mori){:target="_blank"} (demagog.cz)
+- [Jezdil se slovenskou SPZ, skrýval ho Čech. Tak našli dezinformátora na útěku](https://www.seznamzpravy.cz/clanek/domaci-kauzy-jezdil-se-slovenskou-spz-skryval-ho-cech-tak-nasli-dezinformatora-na-uteku-254626){:target="_blank"} (www.seznamzpravy.cz)
+- [Slovenský soud uvalil vazbu na dezinformátora Zítka. V Česku je trestně stíhán za šíření poplašné zprávy](https://www.irozhlas.cz/zpravy-domov/dezinformator-zitko-slovensko-vazba-cesky-zatykac_2406261106_epo){:target="_blank"} (www.irozhlas.cz)
+- [Ohraná báchorka o lékaři na zahraniční misi zase zabrala](https://www.novinky.cz/clanek/krimi-ohrana-bachorka-o-lekari-na-zahranicni-misi-zase-zabrala-40477900){:target="_blank"} (www.novinky.cz)
+- [Konec Pavla Zítka? Zatímco utíkal, soud mu zrušil penězovod od důvěřivců](https://www.idnes.cz/zpravy/domaci/dezinformator-pavel-zitko-utek-policie-slovensko-patrani-vybirani-penez-lide.A240625_110352_domaci_vank#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
+- [Český dezinformátor, ktorého zadržala slovenská polícia, ide do väzby](https://spravy.rtvs.sk/2024/06/cesky-dezinformator-ktoreho-zadrzala-slovenska-policia-ide-do-vazby/){:target="_blank"} (spravy.rtvs.sk)
+
+
+## 25.6. (úterý)
 - [Média informují o všech obětech vlakové nehody, nejen o Ukrajinkách](https://cedmohub.eu/cs/media-informuji-o-vsech-obetech-vlakove-nehody-nejen-o-ukrajinkach/?utm_source=rss&utm_medium=rss&utm_campaign=media-informuji-o-vsech-obetech-vlakove-nehody-nejen-o-ukrajinkach){:target="_blank"} (cedmohub.eu)
 - [Regulace podle NIS2: NÚKIB se o nejkvalitnější zaměstnance přetahuje se soukromým sektorem](https://www.lupa.cz/clanky/regulace-podle-nis2-nukib-se-o-nejkvalitnejsi-zamestnance-pretahuje-se-soukromym-sektorem/?utm_source=rss&utm_medium=text&utm_campaign=rss){:target="_blank"} (www.lupa.cz)
 - [Chtěl rychle zbohatnout, ale přišel o miliony. Na internetu narazil na podvodníka](https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-chtel-rychle-zbohatnout-ale-prisel-o-miliony-na-internetu-narazil-na-podvodnika-40477712){:target="_blank"} (www.novinky.cz)
