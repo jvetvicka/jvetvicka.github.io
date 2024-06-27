@@ -5,6 +5,7 @@ categories: [Rusko]
 tags: [média]
 image:
   path: /img/cancel-stamp.webp
+  alt: "Vygenerováno pomocí DALL-E 3"
 ---
 Rusko na svém území omezilo přístup k více než 80 zahraničním médií. Jedná se o odvetné opatření po rozhodnutí Rady EU ze 17. května, kdy byly v EU uvaleny sankce na ruskou RIA Novosti a listy Izvestija a Rossijskaja gazeta.
 

@@ -6,7 +6,17 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
-## 26.6. (středa) 🟢
+## 27.6. (čtvrtek) 🟢
+- [Časosběrné video z mexického pobřeží není důkazem, že nedochází ke stoupání hladiny moří](https://cedmohub.eu/cs/asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo/?utm_source=rss&utm_medium=rss&utm_campaign=asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo){:target="_blank"} (cedmohub.eu)
+- [Počet profesionálních vojáků i záloh Armády ČR roste](https://cedmohub.eu/cs/pocet-profesionalnich-vojaku-i-zaloh-armady-cr-roste/?utm_source=rss&utm_medium=rss&utm_campaign=pocet-profesionalnich-vojaku-i-zaloh-armady-cr-roste){:target="_blank"} (cedmohub.eu)
+- [Komentář: Dopadlo to jako vždy, zákon má přitom jen připomenout kyberbezpečnost](https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-dopadlo-to-jako-vzdy-zakon-ma-pritom-jen-pripomenout-kyberbezpecnost-254422){:target="_blank"} (seznamzpravy.cz)
+- [Umělá inteligence si přišla pro práci živnostníků. Tím se to ale nezastaví](https://www.seznamzpravy.cz/clanek/tech-umela-inteligence-si-prisla-pro-praci-freelanceru-tim-se-to-ale-nezastavi-254663){:target="_blank"} (seznamzpravy.cz)
+- [Patnáctiletý chlapec jde v Rusku za podporu Ukrajiny do vězení. Bojoval proti propagandě](https://www.irozhlas.cz/zpravy-svet/online-patnactilety-chlapec-jde-v-rusku-za-podporu-ukrajiny-do-vezeni-bojoval_2406270654_kma){:target="_blank"} (irozhlas.cz)
+- [Posílá Ukrajina na frontu děti? Dezinformátoři zneužívají video se studenty](https://www.denik.cz/z_domova/denik-proti-fake-news-ukrajina-deti-autobus-uniformy-stredni-vojenska-skola.html?utm_source=rss&utm_medium=feed&utm_campaign=www.denik.cz&utm_content=zpravy){:target="_blank"} (denik.cz)
+- [Výmysly o podvodech při volbách do Evropského parlamentu – jak se podkopává důvěra v demokracii](https://demagog.cz/diskuze/vymysly-o-podvodech-pri-volbach-do-evropskeho-parlamentu-jak-se-podkopava-duvera-v-demokracii){:target="_blank"} (demagog.cz)
+- [Odměna za informace o kryptokrálovně Ignatovové se zvýšila na 117 milionů](https://www.novinky.cz/clanek/zahranicni-amerika-odmena-za-informace-o-kryptokralovne-ignatovove-se-zvysila-na-117-milionu-40478144){:target="_blank"} (novinky.cz)
+
+## 26.6. (středa)
 - [Kasino na Kypru zůstává původním vlastníkům, informace o prodeji Zelenskému pochází z falešného webu](https://cedmohub.eu/cs/kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu/?utm_source=rss&utm_medium=rss&utm_campaign=kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu){:target="_blank"} (cedmohub.eu)
 - [Manipulativní a nepravdivé příspěvky popírají stoupající hladinu moří](https://demagog.cz/diskuze/manipulativni-a-nepravdive-prispevky-popiraji-stoupajici-hladinu-mori){:target="_blank"} (demagog.cz)
 - [Jezdil se slovenskou SPZ, skrýval ho Čech. Tak našli dezinformátora na útěku](https://www.seznamzpravy.cz/clanek/domaci-kauzy-jezdil-se-slovenskou-spz-skryval-ho-cech-tak-nasli-dezinformatora-na-uteku-254626){:target="_blank"} (www.seznamzpravy.cz)
@@ -14,6 +24,8 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Ohraná báchorka o lékaři na zahraniční misi zase zabrala](https://www.novinky.cz/clanek/krimi-ohrana-bachorka-o-lekari-na-zahranicni-misi-zase-zabrala-40477900){:target="_blank"} (www.novinky.cz)
 - [Konec Pavla Zítka? Zatímco utíkal, soud mu zrušil penězovod od důvěřivců](https://www.idnes.cz/zpravy/domaci/dezinformator-pavel-zitko-utek-policie-slovensko-patrani-vybirani-penez-lide.A240625_110352_domaci_vank#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
 - [Český dezinformátor, ktorého zadržala slovenská polícia, ide do väzby](https://spravy.rtvs.sk/2024/06/cesky-dezinformator-ktoreho-zadrzala-slovenska-policia-ide-do-vazby/){:target="_blank"} (spravy.rtvs.sk)
+- [EU se chce zbavit ruské propagandy. Operátoři musí blokovat tyto čtyři Putinovy weby](https://www.zive.cz/clanky/eu-se-chce-zbavit-ruske-propagandy-operatori-musi-blokovat-tyto-ctyri-putinovy-weby/sc-3-a-228871/default.aspx){:target="_blank"} (www.zive.cz) 🟢
+- [Umělá inteligence pomůže rychle a ekonomicky odminovat Ukrajinu. Její výcvik právě začíná](https://archiv.hn.cz/c1-67337800-umela-inteligence-pomuze-rychle-a-ekonomicky-odminovat-ukrajinu-jeji-vycvik-prave-zacina){:target="_blank"} (archiv.hn.cz) 🟢
 
 
 ## 25.6. (úterý)
