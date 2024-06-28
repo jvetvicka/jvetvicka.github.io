@@ -6,15 +6,59 @@ order: 6
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
 
+<!-- Odkazy na klíčová slova -->
+<button onclick="filterByKeyword('vsechna')" class="post-tag btn btn-outline-primary">vše</button>
+<button onclick="filterByKeyword('fact-checking')" class="post-tag btn btn-outline-primary">fact-checking</button>
+<button onclick="filterByKeyword('dezinformace')" class="post-tag btn btn-outline-primary">dezinformace</button>
+<button onclick="filterByKeyword('kyberbezpecnost')" class="post-tag btn btn-outline-primary">kyberbezpečnost</button>
+<button onclick="filterByKeyword('umela-inteligence')" class="post-tag btn btn-outline-primary">AI</button>
+<button onclick="filterByKeyword('cenzura')" class="post-tag btn btn-outline-primary">cenzura</button>
+<button onclick="filterByKeyword('podvod')" class="post-tag btn btn-outline-primary">podvod</button>
+<button onclick="filterByKeyword('musk')" class="post-tag btn btn-outline-primary">elon musk</button>
+<button onclick="filterByKeyword('propaganda')" class="post-tag btn btn-outline-primary">propaganda</button>
+<button onclick="filterByKeyword('krajni-pravice')" class="post-tag btn btn-outline-primary">krajní pravice</button>
+
+<script>
+    function filterByKeyword(keyword) {
+      var novinky = document.querySelectorAll('.novinka');
+      novinky.forEach(function(novinka) {
+        var keywords = novinka.getAttribute('data-keywords').split(', ');
+        if (keywords.includes(keyword) || keyword === 'vsechna') {
+          novinka.style.display = 'list-item';
+        } else {
+          novinka.style.display = 'none';
+        }
+      });
+    }
+</script>
+
+## 28.6. (pátek) 🟢
+<ul>
+<li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/japonska-vlada-stale-doporucuje-ockovani-proti-covidu-19-neockovanym-se-neomlouvala/?utm_source=rss&utm_medium=rss&utm_campaign=japonska-vlada-stale-doporucuje-ockovani-proti-covidu-19-neockovanym-se-neomlouvala" target="_blank">Japonská vláda stále doporučuje očkování proti covidu-19. Neočkovaným se neomlouvala</a> <small>(cedmohub.eu)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="dezinformace"><a href="https://www.aktuality.sk/clanok/uPgO8DK/spekuloval-o-tom-orban-rusi-aj-dezinfoscena-robert-kalinak-vysvetloval-famy-o-zakladni-nato-na-slovensku/" target="_blank">Špekuloval o tom Orbán, Rusi aj dezinfoscéna. Robert Kaliňák vysvetľoval fámy o základni NATO na Slovensku</a> <small>(aktuality.sk)</small> <code class="highlighter-rouge">dezinformace</code></li>
+<li class="novinka" data-keywords="podvod"><a href="https://www.aktuality.sk/clanok/uEkbyDC/pozor-na-podvody-pri-hladani-dovolenky-ubytovacia-online-sluzba-varuje-pred-utokmi-hackerov/" target="_blank">Pozor na podvody pri hľadaní dovolenky. Ubytovacia online služba varuje pred útokmi hackerov</a> <small>(aktuality.sk)</small> <code class="highlighter-rouge">podvod</code></li>
+<li class="novinka" data-keywords="cenzura"><a href="https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-markiza-propustila-moderatora-kovacice-ktery-ji-ve-vysilani-obvinil-z-cenzury-254831" target="_blank">Markíza propustila moderátora Kovačiče, který ji ve vysílání obvinil z cenzury</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">cenzura</code></li>
+<li class="novinka" data-keywords="krajni-pravice"><a href="https://www.irozhlas.cz/zpravy-svet/jordan-bardella-narodni-sdruzeni-marine-le-pen-francie-krajni-pravice_2406281324_ula" target="_blank">Politik jako hvězda sociálních sítí. Krajně pravicový Bardella skrze ně cílí hlavně na mladé Francouze</a> <small>(irozhlas.cz)</small> <code class="highlighter-rouge">krajní pravice</code></li>
+<li class="novinka" data-keywords="cenzura"><a href="https://www.lupa.cz/aktuality/moderator-michal-kovacic-dostal-vypoved-v-tv-markiza/?utm_source=rss&utm_medium=text&utm_campaign=rss" target="_blank">Moderátor Michal Kovačič dostal výpověď v TV Markíza</a> <small>(lupa.cz)</small> <code class="highlighter-rouge">cenzura</code></li>
+<li class="novinka" data-keywords="kyberbezpecnost"><a href="https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-10-nejobavanejsich-viru-pro-android-40478196" target="_blank">10 nejobávanějších virů pro Android</a> <small>(novinky.cz)</small> <code class="highlighter-rouge">kyberbezpečnost</code></li>
+<li class="novinka" data-keywords="kyberbezpecnost"><a href="https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-pozor-na-bankovni-ucty-cerberus-utoci-stale-casteji-40478195" target="_blank">Pozor na bankovní účty, Cerberus útočí stále častěji</a> <small>(novinky.cz)</small> <code class="highlighter-rouge">kyberbezpečnost</code></li>
+<li class="novinka" data-keywords="podvod"><a href="https://www.novinky.cz/clanek/krimi-zena-se-zamilovala-do-fiktivniho-lekare-z-jemenu-prisla-o-dva-miliony-40478072" target="_blank">Žena se zamilovala do fiktivního lékaře z Jemenu. Přišla o dva miliony</a> <small>(novinky.cz)</small> <code class="highlighter-rouge">podvod</code></li>
+<li class="novinka" data-keywords="musk"><a href="https://vtm.zive.cz/clanky/spacex-znici-mezinarodni-vesmirnou-stanici-deorbitalni-raketa-kupodivu-nebude-variantou-starship/sc-870-a-228903/default.aspx" target="_blank">SpaceX zničí Mezinárodní vesmírnou stanici. Deorbitální raketu pro NASA postaví Musk</a> <small>(vtm.zive.cz)</small> <code class="highlighter-rouge">Elon Musk</code></li>
+<li class="novinka" data-keywords="podvod"><a href="https://news.refresher.sk/162698-Slovaci-si-musia-davat-pozor-na-kyberneticke-utoky-Podvodnici-zacali-vo-velkom-vyuzivat-umelu-inteligenciu" target="_blank">Slováci si musia dávať pozor na kybernetické útoky. Podvodníci začali vo veľkom využívať umelú inteligenciu</a> <small>(news.refresher.sk)</small> <code class="highlighter-rouge">podvod</code></li>
+<li class="novinka" data-keywords="umela-inteligence"><a href="https://www.seznamzpravy.cz/clanek/porady-inside-talks-nenapadne-jako-covid-smrtici-jako-ebola-expert-varuje-pred-ai-bez-limitu-254723" target="_blank">Nenápadné jako covid, smrtící jako ebola. Expert varuje před AI bez limitů</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">AI</code></li>
+</ul>
+
 ## 27.6. (čtvrtek) 🟢
-- [Časosběrné video z mexického pobřeží není důkazem, že nedochází ke stoupání hladiny moří](https://cedmohub.eu/cs/asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo/?utm_source=rss&utm_medium=rss&utm_campaign=asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo){:target="_blank"} (cedmohub.eu)
-- [Počet profesionálních vojáků i záloh Armády ČR roste](https://cedmohub.eu/cs/pocet-profesionalnich-vojaku-i-zaloh-armady-cr-roste/?utm_source=rss&utm_medium=rss&utm_campaign=pocet-profesionalnich-vojaku-i-zaloh-armady-cr-roste){:target="_blank"} (cedmohub.eu)
-- [Komentář: Dopadlo to jako vždy, zákon má přitom jen připomenout kyberbezpečnost](https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-dopadlo-to-jako-vzdy-zakon-ma-pritom-jen-pripomenout-kyberbezpecnost-254422){:target="_blank"} (seznamzpravy.cz)
-- [Umělá inteligence si přišla pro práci živnostníků. Tím se to ale nezastaví](https://www.seznamzpravy.cz/clanek/tech-umela-inteligence-si-prisla-pro-praci-freelanceru-tim-se-to-ale-nezastavi-254663){:target="_blank"} (seznamzpravy.cz)
-- [Patnáctiletý chlapec jde v Rusku za podporu Ukrajiny do vězení. Bojoval proti propagandě](https://www.irozhlas.cz/zpravy-svet/online-patnactilety-chlapec-jde-v-rusku-za-podporu-ukrajiny-do-vezeni-bojoval_2406270654_kma){:target="_blank"} (irozhlas.cz)
-- [Posílá Ukrajina na frontu děti? Dezinformátoři zneužívají video se studenty](https://www.denik.cz/z_domova/denik-proti-fake-news-ukrajina-deti-autobus-uniformy-stredni-vojenska-skola.html?utm_source=rss&utm_medium=feed&utm_campaign=www.denik.cz&utm_content=zpravy){:target="_blank"} (denik.cz)
-- [Výmysly o podvodech při volbách do Evropského parlamentu – jak se podkopává důvěra v demokracii](https://demagog.cz/diskuze/vymysly-o-podvodech-pri-volbach-do-evropskeho-parlamentu-jak-se-podkopava-duvera-v-demokracii){:target="_blank"} (demagog.cz)
-- [Odměna za informace o kryptokrálovně Ignatovové se zvýšila na 117 milionů](https://www.novinky.cz/clanek/zahranicni-amerika-odmena-za-informace-o-kryptokralovne-ignatovove-se-zvysila-na-117-milionu-40478144){:target="_blank"} (novinky.cz)
+<ul>
+<li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo/?utm_source=rss&utm_medium=rss&utm_campaign=asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo" target="_blank">Časosběrné video z mexického pobřeží není důkazem, že nedochází ke stoupání hladiny moří</a> <small>(cedmohub.eu)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="kyberbezpecnost"><a href="https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-dopadlo-to-jako-vzdy-zakon-ma-pritom-jen-pripomenout-kyberbezpecnost-254422" target="_blank">Komentář: Dopadlo to jako vždy, zákon má přitom jen připomenout kyberbezpečnost</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">kyberbezpečnost</code></li>
+<li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/pocet-profesionalnich-vojaku-i-zaloh-armady-cr-roste/" target="_blank">Počet profesionálních vojáků i záloh Armády ČR roste</a> <small>(cedmohub.eu)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="umela-inteligence"><a href="https://www.seznamzpravy.cz/clanek/tech-umela-inteligence-si-prisla-pro-praci-freelanceru-tim-se-to-ale-nezastavi-254663" target="_blank">Umělá inteligence si přišla pro práci živnostníků. Tím se to ale nezastaví</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">AI</code></li>
+<li class="novinka" data-keywords="propaganda"><a href="https://www.irozhlas.cz/zpravy-svet/online-patnactilety-chlapec-jde-v-rusku-za-podporu-ukrajiny-do-vezeni-bojoval_2406270654_kma" target="_blank">Patnáctiletý chlapec jde v Rusku za podporu Ukrajiny do vězení. Bojoval proti propagandě</a> <small>(irozhlas.cz)</small> <code class="highlighter-rouge">propaganda</code></li>
+<li class="novinka" data-keywords="fact-checking"><a href="https://www.denik.cz/z_domova/denik-proti-fake-news-ukrajina-deti-autobus-uniformy-stredni-vojenska-skola.html" target="_blank">Posílá Ukrajina na frontu děti? Dezinformátoři zneužívají video se studenty</a> <small>(denik.cz)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="fact-checking"><a href="https://demagog.cz/diskuze/vymysly-o-podvodech-pri-volbach-do-evropskeho-parlamentu-jak-se-podkopava-duvera-v-demokracii" target="_blank">Výmysly o podvodech při volbách do Evropského parlamentu – jak se podkopává důvěra v demokracii</a> <small>(demagog.cz)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="podvod"><a href="https://www.novinky.cz/clanek/zahranicni-amerika-odmena-za-informace-o-kryptokralovne-ignatovove-se-zvysila-na-117-milionu-40478144" target="_blank">Odměna za informace o kryptokrálovně Ignatovové se zvýšila na 117 milionů</a> <small>(novinky.cz)</small> <code class="highlighter-rouge">podvod</code></li>
+</ul>
 
 ## 26.6. (středa)
 - [Kasino na Kypru zůstává původním vlastníkům, informace o prodeji Zelenskému pochází z falešného webu](https://cedmohub.eu/cs/kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu/?utm_source=rss&utm_medium=rss&utm_campaign=kasino-na-kypru-zustava-puvodnim-vlastnikum-informace-o-prodeji-zelenskemu-pochazi-z-falesneho-webu){:target="_blank"} (cedmohub.eu)
@@ -24,8 +68,8 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 - [Ohraná báchorka o lékaři na zahraniční misi zase zabrala](https://www.novinky.cz/clanek/krimi-ohrana-bachorka-o-lekari-na-zahranicni-misi-zase-zabrala-40477900){:target="_blank"} (www.novinky.cz)
 - [Konec Pavla Zítka? Zatímco utíkal, soud mu zrušil penězovod od důvěřivců](https://www.idnes.cz/zpravy/domaci/dezinformator-pavel-zitko-utek-policie-slovensko-patrani-vybirani-penez-lide.A240625_110352_domaci_vank#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main){:target="_blank"} (www.idnes.cz)
 - [Český dezinformátor, ktorého zadržala slovenská polícia, ide do väzby](https://spravy.rtvs.sk/2024/06/cesky-dezinformator-ktoreho-zadrzala-slovenska-policia-ide-do-vazby/){:target="_blank"} (spravy.rtvs.sk)
-- [EU se chce zbavit ruské propagandy. Operátoři musí blokovat tyto čtyři Putinovy weby](https://www.zive.cz/clanky/eu-se-chce-zbavit-ruske-propagandy-operatori-musi-blokovat-tyto-ctyri-putinovy-weby/sc-3-a-228871/default.aspx){:target="_blank"} (www.zive.cz) 🟢
-- [Umělá inteligence pomůže rychle a ekonomicky odminovat Ukrajinu. Její výcvik právě začíná](https://archiv.hn.cz/c1-67337800-umela-inteligence-pomuze-rychle-a-ekonomicky-odminovat-ukrajinu-jeji-vycvik-prave-zacina){:target="_blank"} (archiv.hn.cz) 🟢
+- [EU se chce zbavit ruské propagandy. Operátoři musí blokovat tyto čtyři Putinovy weby](https://www.zive.cz/clanky/eu-se-chce-zbavit-ruske-propagandy-operatori-musi-blokovat-tyto-ctyri-putinovy-weby/sc-3-a-228871/default.aspx){:target="_blank"} (www.zive.cz)
+- [Umělá inteligence pomůže rychle a ekonomicky odminovat Ukrajinu. Její výcvik právě začíná](https://archiv.hn.cz/c1-67337800-umela-inteligence-pomuze-rychle-a-ekonomicky-odminovat-ukrajinu-jeji-vycvik-prave-zacina){:target="_blank"} (archiv.hn.cz)
 
 
 ## 25.6. (úterý)
