@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: Monitoring CZ/SK
 icon: fas fa-eye
 order: 6
 ---
