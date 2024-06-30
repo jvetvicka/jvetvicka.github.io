@@ -17,6 +17,7 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 <button onclick="filterByKeyword('musk')" class="post-tag btn btn-outline-primary">elon musk</button>
 <button onclick="filterByKeyword('propaganda')" class="post-tag btn btn-outline-primary">propaganda</button>
 <button onclick="filterByKeyword('krajni-pravice')" class="post-tag btn btn-outline-primary">krajní pravice</button>
+<button onclick="filterByKeyword('konspirace')" class="post-tag btn btn-outline-primary">konspirace</button>
 
 <script>
     function filterByKeyword(keyword) {
@@ -32,7 +33,30 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
     }
 </script>
 
-## 28.6. (pátek) 🟢
+## 30.6. (neděle) 🟢
+<ul>
+<li class="novinka" data-keywords="fact-checking"><a href="https://www.irozhlas.cz/zpravy-domov/overovna-pavel-chce-zakazat-volit-starym-lidem-lze-e-mail-vyrok-je-ale-upraveny_2406300500_edr" target="_blank">OVĚŘOVNA: Pavel chce zakázat volit starým lidem, lže e-mail. Výrok je ale upravený a vytržený z kontextu</a> <small>(irozhlas.cz, 30.06)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/seznam-cz-novinky-a-stream-cz-zustavaji-ivo-lukacovicovi-napojeni-na-sorose-je-smyslene/?utm_source=rss&utm_medium=rss&utm_campaign=seznam-cz-novinky-a-stream-cz-zustavaji-ivo-lukacovicovi-napojeni-na-sorose-je-smyslene" target="_blank">Seznam.cz, Novinky a Stream.cz zůstávají Ivo Lukačovičovi, napojení na Sorose je smyšlené</a> <small>(cedmohub.eu, 30.06)</small> <code class="highlighter-rouge">fact-checking</code></li>
+<li class="novinka" data-keywords="propaganda"><a href="https://www.aktuality.sk/clanok/wMZYS2t/ako-propaganda-meni-pravidla-komunikacnych-hier/" target="_blank">Ako propaganda mení pravidlá komunikačných hier</a> <small>(aktuality.sk, 30.06)</small> <code class="highlighter-rouge">propaganda</code></li>
+<li class="novinka" data-keywords="krajni-pravice"><a href="https://zpravy.aktualne.cz/zahranici/macronuv-gamble-nevychazi-strana-le-penove-ma-na-dosah-voleb/r~0f9118a8351e11ef95ee0cc47ab5f122/?utm_source=mediafed&utm_medium=rss&utm_campaign=mediafed" target="_blank">Macron se přepočítal. Krajní pravice míří k triumfu, Francii hrozí dvojvládí a chaos</a> <small>(zpravy.aktualne.cz, 30.06)</small> <code class="highlighter-rouge">krajní pravice</code></li>
+<li class="novinka" data-keywords="krajni-pravice"><a href="https://www.seznamzpravy.cz/clanek/volby-francie-2024-kdo-je-jordan-bardella-254835" target="_blank">Lepenovská hvězda TikToku chce řídit Francii. Zatím dostává nabídky k sňatku</a> <small>(seznamzpravy.cz, 30.06)</small> <code class="highlighter-rouge">krajní pravice</code></li>
+<li class="novinka" data-keywords="propaganda"><a href="https://www.teraz.sk/zahranicie/riziko-ruskeho-zasahovania-do-volieb-vo/805604-clanok.html" target="_blank">Riziko ruského zasahovania do volieb vo V. Británii je znepokojujúce</a> <small>(teraz.sk, 30.06)</small> <code class="highlighter-rouge">propaganda</code></li>
+<li class="novinka" data-keywords="propaganda"><a href="https://dennikn.sk/minuta/4074177/" target="_blank">Cirkevnými dejinami vanie propagandisticky organizovaná mizogýnna atmosféra zameraná na udržanie...</a> <small>(dennikn.sk, 30.06)</small> <code class="highlighter-rouge">propaganda</code></li>
+
+</ul>
+
+## 29.6. (sobota) 🟢
+<ul>
+<li class="novinka" data-keywords="krajni-pravice"><a href="https://www.seznamzpravy.cz/clanek/volby-eurovolby-laka-mlade-krajni-pravice-ne-jen-je-v-kurzu-volit-rebely-rika-sociolog-254824" target="_blank">Láká mladé krajní pravice? Ne, jen je v kurzu volit rebely, říká sociolog</a>) <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">krajní pravice</code></li>
+<li class="novinka" data-keywords="krajni-pravice"><a href="https://www.denik.cz/ze_sveta/izrael-demonstrace-benjamin-netanjahu.html" target="_blank">Desetitisíce lidí v Izraeli znovu vyšly do ulic. Protestují proti Netanjahuovi</a><small>(denik.cz)</small> <code class="highlighter-rouge">krajní pravice</code></li>
+<li class="novinka" data-keywords="podvod"><a href="https://www.novinky.cz/clanek/krimi-desitky-podvodniku-ze-zlinska-si-diky-fiktivnim-dokladum-prisly-na-145-milionu-40478343" target="_blank">Desítky podvodníků ze Zlínska si díky fiktivním dokladům přišly na 145 milionů</a> <small>(novinky.cz)</small> <code class="highlighter-rouge">podvod</code></li>
+<li class="novinka" data-keywords="kyberbezpecnost"><a href="https://hnonline.sk/svet/96156974-polska-prokuratura-vysetruje-kyberneticky-utok-na-pap-a-sirenie-dezinfomacie" target="_blank">Poľská prokuratúra vyšetruje kybernetický útok na PAP a šírenie dezinfomácie</a> <small>(hnonline.sk)</small> <code class="highlighter-rouge">kyberbezpečnost</code></li>
+<li class="novinka" data-keywords="konspirace"><a href="https://www.seznamzpravy.cz/clanek/audio-podcast-cemu-vsemu-jsou-lide-ochotni-verit-znate-nejvetsi-skryte-pravdy-sveta-254783" target="_blank">Čemu všemu jsou lidé ochotni věřit. Znáte největší „skryté pravdy“ světa?</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">konspirace</code></li>
+<li class="novinka" data-keywords="konspirace"><a href="https://refresher.cz/161978-Invaze-do-Iraku-nebo-vymyvani-mozku-podle-CIA-Tohle-jsou-pravdive-konspiracni-teorie-kterym-nejdriv-nikdo-neveril" target="_blank">Invaze do Iráku nebo vymývání mozků podle CIA. Tohle jsou pravdivé konspirační teorie, kterým nejdřív nikdo nevěřil </a> <small>(refresher.cz)</small> <code class="highlighter-rouge">konspirace</code></li>
+</ul>
+
+
+## 28.6. (pátek)
 <ul>
 <li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/japonska-vlada-stale-doporucuje-ockovani-proti-covidu-19-neockovanym-se-neomlouvala/?utm_source=rss&utm_medium=rss&utm_campaign=japonska-vlada-stale-doporucuje-ockovani-proti-covidu-19-neockovanym-se-neomlouvala" target="_blank">Japonská vláda stále doporučuje očkování proti covidu-19. Neočkovaným se neomlouvala</a> <small>(cedmohub.eu)</small> <code class="highlighter-rouge">fact-checking</code></li>
 <li class="novinka" data-keywords="dezinformace"><a href="https://www.aktuality.sk/clanok/uPgO8DK/spekuloval-o-tom-orban-rusi-aj-dezinfoscena-robert-kalinak-vysvetloval-famy-o-zakladni-nato-na-slovensku/" target="_blank">Špekuloval o tom Orbán, Rusi aj dezinfoscéna. Robert Kaliňák vysvetľoval fámy o základni NATO na Slovensku</a> <small>(aktuality.sk)</small> <code class="highlighter-rouge">dezinformace</code></li>
@@ -48,7 +72,7 @@ V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvo
 <li class="novinka" data-keywords="umela-inteligence"><a href="https://www.seznamzpravy.cz/clanek/porady-inside-talks-nenapadne-jako-covid-smrtici-jako-ebola-expert-varuje-pred-ai-bez-limitu-254723" target="_blank">Nenápadné jako covid, smrtící jako ebola. Expert varuje před AI bez limitů</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">AI</code></li>
 </ul>
 
-## 27.6. (čtvrtek) 🟢
+## 27.6. (čtvrtek)
 <ul>
 <li class="novinka" data-keywords="fact-checking"><a href="https://cedmohub.eu/cs/asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo/?utm_source=rss&utm_medium=rss&utm_campaign=asosbrn-video-z-mexickho-pobe-nen-dkazem-e-nedochz-ke-stoupn-hladiny-mo" target="_blank">Časosběrné video z mexického pobřeží není důkazem, že nedochází ke stoupání hladiny moří</a> <small>(cedmohub.eu)</small> <code class="highlighter-rouge">fact-checking</code></li>
 <li class="novinka" data-keywords="kyberbezpecnost"><a href="https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-dopadlo-to-jako-vzdy-zakon-ma-pritom-jen-pripomenout-kyberbezpecnost-254422" target="_blank">Komentář: Dopadlo to jako vždy, zákon má přitom jen připomenout kyberbezpečnost</a> <small>(seznamzpravy.cz)</small> <code class="highlighter-rouge">kyberbezpečnost</code></li>
