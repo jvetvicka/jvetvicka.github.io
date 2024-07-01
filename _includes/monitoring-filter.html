@@ -1,0 +1,28 @@
+<!-- Odkazy na klíčová slova -->
+<button onclick="filterByKeyword('vsechna')" class="post-tag btn btn-outline-primary">vše</button>
+<button onclick="filterByKeyword('fact-checking')" class="post-tag btn btn-outline-primary">fact-checking</button>
+<button onclick="filterByKeyword('dezinformace')" class="post-tag btn btn-outline-primary">dezinformace</button>
+<button onclick="filterByKeyword('kyberbezpečnost')" class="post-tag btn btn-outline-primary">kyberbezpečnost</button>
+<button onclick="filterByKeyword('umělá inteligence')" class="post-tag btn btn-outline-primary">AI</button>
+<button onclick="filterByKeyword('cenzura')" class="post-tag btn btn-outline-primary">cenzura</button>
+<button onclick="filterByKeyword('podvod')" class="post-tag btn btn-outline-primary">podvod</button>
+<button onclick="filterByKeyword('musk')" class="post-tag btn btn-outline-primary">elon musk</button>
+<button onclick="filterByKeyword('propaganda')" class="post-tag btn btn-outline-primary">propaganda</button>
+<button onclick="filterByKeyword('krajní pravice')" class="post-tag btn btn-outline-primary">krajní pravice</button>
+<button onclick="filterByKeyword('konspirace')" class="post-tag btn btn-outline-primary">konspirace</button>
+<button onclick="filterByKeyword('sociální sítě')" class="post-tag btn btn-outline-primary">sociální sítě</button>
+<button onclick="filterByKeyword('hoax')" class="post-tag btn btn-outline-primary">hoax</button>
+
+<script>
+    function filterByKeyword(keyword) {
+      var novinky = document.querySelectorAll('.novinka');
+      novinky.forEach(function(novinka) {
+        var keywords = novinka.getAttribute('data-keywords').split(', ');
+        if (keywords.includes(keyword) || keyword === 'vsechna') {
+          novinka.style.display = 'list-item';
+        } else {
+          novinka.style.display = 'none';
+        }
+      });
+    }
+</script>
