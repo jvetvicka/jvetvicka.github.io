@@ -5,7 +5,7 @@ icon: fas fa-eye
 order: 6
 ---
 
-V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/blob/449af380bd3e56b4e2ad9336031cfeefa58f8898/mediacheck.py), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články pro mou práci. Průběžně zde budu zveřejňovat odkazy pro jednotlivé dny.
+V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/tree/main/mediacheck), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články související s dezinformacemi. Nakonec jsme však s [msamyel](https://github.com/msamyel) projekt upravili a vznikly [kyberzpravy.cz](https://kyberzpravy.cz/). Jednotlivé dny zde ponechávám pro archivaci.
 
 {% include monitoring-month.html %}
 
