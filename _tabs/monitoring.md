@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Monitoring CZ/SK
 icon: fas fa-eye
-order: 6
+order: 5
 ---
 
 V rámci monitoringu českých a slovenských médií jsem pomocí ChatGPT vytvořil jednoduchý [python skript](https://github.com/jvetvicka/scripts/tree/main/mediacheck), který prohledává RSS zpravodajských webů a na základě klíčových slov vypisuje relevantní články související s dezinformacemi. Nakonec jsme však s [msamyel](https://github.com/msamyel) projekt upravili a vznikly [kyberzpravy.cz](https://kyberzpravy.cz/). Jednotlivé dny zde ponechávám pro archivaci.

@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-link
-order: 5
+order: 3
 ---
 
 Zde je seznam materiálů, které se mohou hodit v boji proti dezinformacím.

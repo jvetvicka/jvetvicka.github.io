@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-poo
 title: AntiUA Tweety 2024
-order: 5
+order: 1
 ---
 
 Tato stránka obsahuje aktéry, kteří publikovali tweety namířené proti Ukrajině během roku 2024. Seznam konkrétních tweetů je publikován v repozitáři. K vyhledání byla nejprve vytipována klíčová slova a následně použito vyhledávání na X. Data jsou sbírána ručně.
