@@ -26,3 +26,14 @@
 .pagination-month a:hover:not(.active) {
   background-color: #ddd;
 }
+
+
+/* SIDEBAR GALLERY */
+.randomize img {
+  display: none;
+}
+
+.randomize img:first-child {
+  display: block;
+}
+
