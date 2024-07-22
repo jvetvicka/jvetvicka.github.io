@@ -2,37 +2,3 @@
   Appending custom SCSS variables will override the default ones in `_sass/addon/variables.scsss`
 */
 
-/* Pagination links */
-.pagination-month {
-  margin-bottom: 1rem;
-}
-
-.pagination-month a {
-  color: black;
-  display: inline-block;
-  padding: 4px;
-  text-decoration: none;
-  transition: background-color 0.3s;
-  border-bottom: 0 !important;
-}
-
-/* Style the active/current link */
-.pagination-month a.active {
-  background-color: dodgerblue;
-  color: white;
-}
-
-/* Add a grey background color on mouse-over */
-.pagination-month a:hover:not(.active) {
-  background-color: #ddd;
-}
-
-
-/* SIDEBAR GALLERY */
-.randomize img {
-  display: none;
-}
-
-.randomize img:first-child {
-  display: block;
-}
